@@ -12,8 +12,8 @@ My-ToDo-App is a Flutter app that helps you organize your tasks and get things d
 
 ## Screenshots
 <p float="left">
-<img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/ca0e59df-1460-4a9c-9a9e-6f2dad1ed88c" alt="293209_9c235a7749e1ae47b42a38f67f06f335-11_23_2022, 2_30_35 AM" width="50%" height="50%"/>
-<img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/ca0e59df-1460-4a9c-9a9e-6f2dad1ed88c" alt="293209_9c235a7749e1ae47b42a38f67f06f335-11_23_2022, 2_30_35 AM" width="50%" height="50%"/>
+<img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/ca0e59df-1460-4a9c-9a9e-6f2dad1ed88c" alt="293209_9c235a7749e1ae47b42a38f67f06f335-11_23_2022, 2_30_35 AM" width="200" height="50%"/>
+<img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/37e63297-d026-4c2d-88a1-b53a780588fc" alt="293212_4608935fe6f86ad0dce2abdda0aec7d9-11_23_2022, 2_32_39 AM" width="200" height="50%"/>
 <p/>
 ![293209_9c235a7749e1ae47b42a38f67f06f335-11_23_2022, 2_30_35 AM](https://github.com/somaga1/My-ToDo-App/assets/89393974/ca0e59df-1460-4a9c-9a9e-6f2dad1ed88c)
 ![293212_4608935fe6f86ad0dce2abdda0aec7d9-11_23_2022, 2_32_39 AM](https://github.com/somaga1/My-ToDo-App/assets/89393974/37e63297-d026-4c2d-88a1-b53a780588fc)
