@@ -21,16 +21,17 @@ My-ToDo-App is a Flutter app that helps you organize your tasks and get things d
 <!-- ![293203_d41133c2b5876411e6f39622135e5339-11_23_2022, 2_28_28 AM](https://github.com/somaga1/My-ToDo-App/assets/89393974/7b92b554-01a6-42c5-81e8-4c444bf117ec) -->
 <p float="left">
 <img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/04558b4c-8051-40f3-af9b-685ac8b3c39c" alt="293205_8abff2b0670bd2b0a393ea4e08ef4210-11_23_2022, 2_29_01 AM" width="200" height="50%"/>
-<img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/01eaf36e-91e0-4067-8837-32f1e191e5fb" alt="293208_b4206b68e3a3088bffd96eb45f7ecf86-11_23_2022, 2_30_00 AM" width="200" height="50%"/>
-<p/>
 <img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/044d0573-c3f2-498a-8d84-6e7b05cca111" alt="[293206_8537336339769c5d994fc685b833bd29-11_23_2022, 2_29_12 AM" width="200" height="50%"/>
+<p/>
+<img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/01eaf36e-91e0-4067-8837-32f1e191e5fb" alt="293208_b4206b68e3a3088bffd96eb45f7ecf86-11_23_2022, 2_30_00 AM" width="200" height="50%"/>
+
 
 ## Installation
-To run this app, you need to have Flutter installed on your machine. Follow the instructions <a href="https://docs.flutter.dev/">here</> to install Flutter.
+To run this app, you need to have Flutter installed on your machine. Follow the instructions [here](https://docs.flutter.dev/) to install Flutter.
 
 Then, clone this repository and open it in your preferred IDE. Run `flutter pub get` to get the dependencies.
 
-You also need to set up Firebase for your app. Follow the instructions <a href="https://firebase.google.com/docs">here</> to create a Firebase project and add the configuration files to your app.
+You also need to set up Firebase for your app. Follow the instructions [here](https://firebase.google.com/docs/flutter/setup) to create a Firebase project and add the configuration files to your app.
 
 
 Finally, run `flutter run` to launch the app on your device or emulator.
@@ -63,5 +64,6 @@ dependencies:
   timezone: ^0.7.0+2
   flutter_native_timezone: ^2.0.0+1```
 
-# License
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
