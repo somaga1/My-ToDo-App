@@ -63,6 +63,7 @@ dependencies:
   flutter_local_notifications: ^9.2.0
   timezone: ^0.7.0+2
   flutter_native_timezone: ^2.0.0+1
+```
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
