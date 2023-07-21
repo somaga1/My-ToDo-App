@@ -3,8 +3,7 @@ My-ToDo-App is a Flutter app that helps you organize your tasks and get things d
 
 ## Features
 * Create, edit, and delete tasks
-* Categorize tasks by color and icon
-* Sort tasks by priority, deadline, or category
+* Categorize tasks by color and icon( Green and thumbs up for completed tasks, red and thumbs down for missed tasks)
 * Set recurring tasks and skip days
 * Set reminders and notifications for tasks
 * Sync data with Firebase and store locally with Hive
