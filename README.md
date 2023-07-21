@@ -15,14 +15,15 @@ My-ToDo-App is a Flutter app that helps you organize your tasks and get things d
 <img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/ca0e59df-1460-4a9c-9a9e-6f2dad1ed88c" alt="293209_9c235a7749e1ae47b42a38f67f06f335-11_23_2022, 2_30_35 AM" width="200" height="50%"/>
 <img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/37e63297-d026-4c2d-88a1-b53a780588fc" alt="293212_4608935fe6f86ad0dce2abdda0aec7d9-11_23_2022, 2_32_39 AM" width="200" height="50%"/>
 <p/>
-![293209_9c235a7749e1ae47b42a38f67f06f335-11_23_2022, 2_30_35 AM](https://github.com/somaga1/My-ToDo-App/assets/89393974/ca0e59df-1460-4a9c-9a9e-6f2dad1ed88c)
-![293212_4608935fe6f86ad0dce2abdda0aec7d9-11_23_2022, 2_32_39 AM](https://github.com/somaga1/My-ToDo-App/assets/89393974/37e63297-d026-4c2d-88a1-b53a780588fc)
-![293204_cdb229eb989fe22ce80ab9eb7fd17689-11_23_2022, 2_28_44 AM](https://github.com/somaga1/My-ToDo-App/assets/89393974/854cdaa7-e64b-42cb-bfcb-e2ce25298775)
-![293203_d41133c2b5876411e6f39622135e5339-11_23_2022, 2_28_28 AM](https://github.com/somaga1/My-ToDo-App/assets/89393974/7b92b554-01a6-42c5-81e8-4c444bf117ec)
-![293205_8abff2b0670bd2b0a393ea4e08ef4210-11_23_2022, 2_29_01 AM](https://github.com/somaga1/My-ToDo-App/assets/89393974/04558b4c-8051-40f3-af9b-685ac8b3c39c)
-![293208_b4206b68e3a3088bffd96eb45f7ecf86-11_23_2022, 2_30_00 AM](https://github.com/somaga1/My-ToDo-App/assets/89393974/01eaf36e-91e0-4067-8837-32f1e191e5fb)
-![293206_8537336339769c5d994fc685b833bd29-11_23_2022, 2_29_12 AM](https://github.com/somaga1/My-ToDo-App/assets/89393974/044d0573-c3f2-498a-8d84-6e7b05cca111)
-
+<img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/854cdaa7-e64b-42cb-bfcb-e2ce25298775" alt="[293204_cdb229eb989fe22ce80ab9eb7fd17689-11_23_2022, 2_28_44 AM" width="50%" height="50%"/>
+<!-- ![293204_cdb229eb989fe22ce80ab9eb7fd17689-11_23_2022, 2_28_44 AM](https://github.com/somaga1/My-ToDo-App/assets/89393974/854cdaa7-e64b-42cb-bfcb-e2ce25298775) -->
+<img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/7b92b554-01a6-42c5-81e8-4c444bf117ec" alt="[293203_d41133c2b5876411e6f39622135e5339-11_23_2022, 2_28_28 AM" width="50%" height="50%"/>
+<!-- ![293203_d41133c2b5876411e6f39622135e5339-11_23_2022, 2_28_28 AM](https://github.com/somaga1/My-ToDo-App/assets/89393974/7b92b554-01a6-42c5-81e8-4c444bf117ec) -->
+<p float="left">
+<img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/04558b4c-8051-40f3-af9b-685ac8b3c39c" alt="293205_8abff2b0670bd2b0a393ea4e08ef4210-11_23_2022, 2_29_01 AM" width="200" height="50%"/>
+<img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/01eaf36e-91e0-4067-8837-32f1e191e5fb" alt="293208_b4206b68e3a3088bffd96eb45f7ecf86-11_23_2022, 2_30_00 AM" width="200" height="50%"/>
+<p/>
+<img src="https://github.com/somaga1/My-ToDo-App/assets/89393974/044d0573-c3f2-498a-8d84-6e7b05cca111" alt="[293206_8537336339769c5d994fc685b833bd29-11_23_2022, 2_29_12 AM" width="50%" height="50%"/>
 
 ## Installation
 To run this app, you need to have Flutter installed on your machine. Follow the instructions <a href="https://docs.flutter.dev/">here</> to install Flutter.
